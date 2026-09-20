@@ -1,0 +1,6 @@
+   {
+     "version": "4.0.0",
+     "url": "https://github.com/kaskadix/seriesalert-releases/releases/download/v4.0.0/SeriesAlert-update_1.tar.gz",
+     "sha256": "5aa54ae0738831b29ce9369b10aed7c0a67801435fbf5b8042fc244209782a59",
+     "notes": "Selbst-Update-Funktion im Plugin"
+   }
