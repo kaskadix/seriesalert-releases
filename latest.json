@@ -1,6 +1,6 @@
    {
-     "version": "4.0.0",
-     "url": "https://github.com/kaskadix/seriesalert-releases/releases/download/v4.0.0/SeriesAlert-update_1.tar.gz",
-     "sha256": "5aa54ae0738831b29ce9369b10aed7c0a67801435fbf5b8042fc244209782a59",
-     "notes": "Selbst-Update-Funktion im Plugin"
+     "version": "4.1.0",
+     "url": "https://github.com/kaskadix/seriesalert-releases/releases/download/v4.1.0/SeriesAlert-update-4.1.0.tar.gz",
+     "sha256": "57bfed14e1fe19a5dff75fa6096c6ca1296a3d2a0aa47b83efc2c530f6b86113",
+     "notes": "Cover-Anzeige repariert"
    }
