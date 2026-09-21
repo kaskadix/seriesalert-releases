@@ -1,6 +1,6 @@
    {
-     "version": "4.1.0",
-     "url": "https://github.com/kaskadix/seriesalert-releases/releases/download/v4.1.0/SeriesAlert-update-4.1.0.tar.gz",
-     "sha256": "57bfed14e1fe19a5dff75fa6096c6ca1296a3d2a0aa47b83efc2c530f6b86113",
-     "notes": "Cover-Anzeige repariert"
+     "version": "4.2.0",
+     "url": "https://github.com/kaskadix/seriesalert-releases/releases/download/v4.2.0/SeriesAlert-update-4.2.0.tar.gz",
+     "sha256": "a01dbab7a396cce86fb49aa4fa7c8405cee7729558f52f057d9c6be998ecb286",
+     "notes": "Cover-Anzeige repariert. Xstreamity Anbindung erneuert"
    }
